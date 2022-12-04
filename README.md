@@ -19,7 +19,7 @@ The purpose of this analysis is to determine who will be retiring soon from Pewl
 
 * To find the employees eligible for the mentorship program, I pulled in distinct employee number, first name, last name, birth date, from date, to date, and title from the employees and dept_emp tables (joined on primary key), and filtered on to date where the employee had not yet retired and birth date where the employee was born between 1/1/1965 and 12/31/1965
 
-![Deliverable 2 Queries](https://user-images.githubusercontent.com/115508658/205505158-12d5c874-e8b5-4291-8efc-31367f524dec.png)
+![Deliverable 2 Queries](https://user-images.githubusercontent.com/115508658/205508472-38d271c0-d298-4187-8a59-245409e0c6fb.png)
 
 * There are only 1,549 employees eligible for the mentorship program
 
