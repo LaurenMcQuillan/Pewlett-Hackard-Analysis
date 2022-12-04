@@ -26,3 +26,11 @@ The purpose of this analysis is to determine who will be retiring soon from Pewl
 ![Mentorship](https://user-images.githubusercontent.com/115508658/205505439-98161a70-f261-46bf-8d4b-bc5f8b651a6e.png)
 
 ## Summary
+
+* There are 72,458 total roles that will need to be filled as the “silver tsunami” begins to make an impact
+
+![total retiring query](https://user-images.githubusercontent.com/115508658/205508934-a23c57a7-b9d7-477d-8280-ca845eca9fc1.png)
+
+![total retiring image](https://user-images.githubusercontent.com/115508658/205508937-649a645f-47e3-412f-923e-901baad775b1.png)
+
+
