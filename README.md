@@ -27,13 +27,13 @@ The purpose of this analysis is to determine who will be retiring soon from Pewl
 
 ## Summary
 
-There are 72,458 total roles that will need to be filled as the “silver tsunami” begins to make an impact
+### There are 72,458 total roles that will need to be filled as the “silver tsunami” begins to make an impact
 
 ![total retiring query](https://user-images.githubusercontent.com/115508658/205508934-a23c57a7-b9d7-477d-8280-ca845eca9fc1.png)
 
 ![total retiring image](https://user-images.githubusercontent.com/115508658/205508937-649a645f-47e3-412f-923e-901baad775b1.png)
 
-There are not enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees
+### There are not enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees
 
 * I found the count of the employees by department who have not yet retired, are not of retiring age, and are not eligible for the mentorship program to create the active_employee_dept_count table
 * I found the count of the employees by department who are eligible for the mentorship program to create the mentorship_dept_count table
@@ -44,6 +44,12 @@ There are not enough qualified, retirement ready employees in the departments to
 At best, in the Marketing department, there are 88 employees for each mentor.  At worst, in the Finance department, there are 134 employees for each mentor.
 
 ![Deliverable 3 Results](https://user-images.githubusercontent.com/115508658/205511692-f4337560-8e93-4935-95ef-80709cc8b1a2.png)
+
+If the mentorship program age requirement were to be expanded to employees born between 1/1/1964 and 12/31/1965, the number of mentors would increase from 1,549 to 19,905.
+
+![Deliverable 3 Queries 2](https://user-images.githubusercontent.com/115508658/205511974-3270b5ca-0e63-4731-9a85-f9d330e2d310.png)
+
+![Deliverable 3 Results 2](https://user-images.githubusercontent.com/115508658/205511985-2371dc93-217c-4799-8baf-ccb472911ff0.png)
 
 
 
