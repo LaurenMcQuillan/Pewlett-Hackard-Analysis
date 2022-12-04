@@ -11,8 +11,7 @@ The purpose of this analysis is to determine who will be retiring soon from Hewl
    *  Find distinct employee number based on most recent title, first name, last name, and title from the retirement_titles table, and filter on to date to exclude any employees who had already retired to create the unique_titles table
    *  Find the count of titles by title from the unique_titles table
 
-![Deliverable 1 Queries](https://user-images.githubusercontent.com/115508658/205504310-ec7a0fec-83e3-4f22-8b31-b06030a64490.png)
-
+![Deliverable 1 Queries](https://user-images.githubusercontent.com/115508658/205504443-2d88bb75-4ae7-4ac5-b6b0-06d7ec11ea83.png)
 
 * The title that has the most employees expected to retire is Senior Engineer, followed by Senior Staff. Senior employees are likely to be high valued with the most experience, so it’s very beneficial to plan ahead for their retirement.
 
