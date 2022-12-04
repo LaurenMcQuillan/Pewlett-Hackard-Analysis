@@ -33,4 +33,5 @@ The purpose of this analysis is to determine who will be retiring soon from Pewl
 
 ![total retiring image](https://user-images.githubusercontent.com/115508658/205508937-649a645f-47e3-412f-923e-901baad775b1.png)
 
+* There are not enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees
 
